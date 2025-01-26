@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kowshik-varma-kucharallapati-9ab927278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kowshik-varma-kucharallapati-9ab927278" height="30" width="40" /></a>
 <a href="https://instagram.com/kowshik_varma_kucharallapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kowshik_varma_kucharallapati" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc4onbtxlg5jmkrpizubjhpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4onbtxlg5jmkrpizubjhpw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc4onbtxlg5jmkrpizubjhpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4onbtxlg5jmkrpizubjhpw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/user2048ij/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/user2048ij/" height="30" width="40" /></a>
 </p>
 
