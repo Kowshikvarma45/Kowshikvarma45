@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kowshik Varma Kucharallapati</h1>
 <h3 align="center">Enthusiastic Full stack developer && Problem solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowshikvarma45" alt="kowshikvarma45" /></a> </p>
+
 
 - 🔭 I’m currently working on **Chat application**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kowshikvarmakucharallapati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17LGnedVo30sXUJN1qRjksX-DCxA82Lvw/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17LGnedVo30sXUJN1qRjksX-DCxA82Lvw/view?usp=sharing)
 
 - ⚡ Fun fact **Does semicolons neccessary?**
 
