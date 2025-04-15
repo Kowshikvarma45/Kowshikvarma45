@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kowshikvarmakucharallapati@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17LGnedVo30sXUJN1qRjksX-DCxA82Lvw/view?usp=sharing)
+- 📄 Know about my experiences [Portifolio](https://portfolio-eight-amber-84.vercel.app/)
 
 - ⚡ Fun fact **Does semicolons neccessary?**
 
