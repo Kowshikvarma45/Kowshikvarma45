@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kowshik Varma Kucharallapati</h1>
 <h3 align="center">Enthusiastic Full stack developer && Problem solver</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 **Next.js** is ❤️❤️❤️
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
